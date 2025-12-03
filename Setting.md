@@ -28,4 +28,5 @@ The world is old, but its truth has been forgotten.
 
 ---
 
-![hollow-reach-world](https://github.com/user-attachments/assets/d84a0094-dc39-4970-a8c1-fd84164d8b07)
+
+![erdemar_kingdom](https://github.com/user-attachments/assets/6c327fb7-405e-4ae3-93a4-32e6e668004f)
