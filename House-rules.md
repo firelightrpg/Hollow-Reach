@@ -268,8 +268,6 @@ Hit points are not meat. They're energy, grit, luck, stamina — and they come b
 
 🛡️ *House Rule:*
 
-🛡️ *House Rule:*
-
 Once per rest, a **Barbarian, Fighter, Monk, Paladin, Ranger, or Rogue** may use an **Action or Bonus Action** to spend up to half their hit dice to heal.
 They must become **incapacitated until the start of their next turn**, reflecting a moment of intense focus or recovery.
 *Fighters still retain Second Wind separately.*
@@ -298,8 +296,13 @@ Readied Actions can interrupt casters and force Concentration saves.
 
 ---
 
+## 🏆 Triumphs
+
+🛡️ *House Rule:*
+
 **Achieving Triumphs**
-Each time you overcome an encounter, you receive a triumph. Triumphs reset to zero on a long rest. At the start of an encounter, you have a number of triumphs equal to the number of encounters you've overcome since your last long rest. 
+
+Each time you overcome an encounter, you receive a triumph. Triumphs reset to zero on a long rest. At the start of an encounter, each player has a number of triumphs equal to the number of encounters you've overcome since your last long rest. 
 
 **Combat** triumphs may be  killing a ravaging monster, stopping a ritual, recovering stolen goods, or rescuing a patron. 
 
@@ -308,8 +311,9 @@ A **social** triumph may be gaining information or influencing behavior that ove
 An **exploration** triumph might be solving a puzzle, overcoming a trap, locating an important secret, negotiating a hazard or completing a difficult gauntlet.
 
 **Expending Triumphs**
+
 On your turn, you may expend one or more available triumphs.
 
 A triumph may be expended to acquire Inspiration, to regain a spell slot (one triumph per spell level), or to regain one use of a class feature.
 
-
+---
