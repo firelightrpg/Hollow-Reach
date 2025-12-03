@@ -1,12 +1,14 @@
-# VTT 
+# 🎮 VTT 
 
-We use dndbeyond with the AboveVTT browser extension. 
+We use dndbeyond with the AboveVTT browser extension. 
 
 ## Requirements
 
-- A [dndbeyond](https://www.dndbeyond.com/) account (can be a free account - Note: when you join my campaign, you’ll have access to my content)
+- A [dndbeyond](https://www.dndbeyond.com/) account (can be a free account - Note: when you join my campaign, you'll have access to my content)
 
-- The AboveVTT browser extension ([Chrome](https://chromewebstore.google.com/detail/abovevtt/ipcjcbhpofedihcloggaichibomadlei?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/abovevtt/)) 
+- The AboveVTT browser extension ([Chrome](https://chromewebstore.google.com/detail/abovevtt/ipcjcbhpofedihcloggaichibomadlei?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/abovevtt/)) 
+
+- D&D Beyond 2014 Link Fixer ([Chrome](https://chromewebstore.google.com/detail/dd-beyond-2014-link-fixer/hkleolhmaimabhalcmdbcnmaiipdjafj?pli=1) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/d-d-beyond-2014-link-fixer/)) _Fixes links and tooltips, so you get 2014 results, not 2024._ 
 
 - A [discord](https://discord.com/) account (can be free account)
 
@@ -18,23 +20,19 @@ We use dndbeyond with the AboveVTT browser extension. 
 
 ---
 
-## :inbox_tray: How to Join AboveVTT
+## 📥 How to Join AboveVTT
 
 Once you have the **AboveVTT browser extension** installed, you can join a game directly from D&D Beyond.
 
 1. **From the Campaign Page**  
    Click the **“Join AboveVTT”** button next to your character’s name.  
-   [Screenshot – Campaign Page](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfAAI4kM5lg-h9wkpxMfjSbcsRTsO_PFmIm4m20CscZPAeoKo7HdbqDwKRwB3jPtNuwfFStH3fuvViMNjdwI3XvUZHsqlHShHg3gSIf1lqKoWWX9kOn4crG6MyRMI4hQmTNfqzADg?key=qv6Vbdt32T6dTgKGUrsl6A)
+   ![Screenshot – Campaign Page](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfAAI4kM5lg-h9wkpxMfjSbcsRTsO_PFmIm4m20CscZPAeoKo7HdbqDwKRwB3jPtNuwfFStH3fuvViMNjdwI3XvUZHsqlHShHg3gSIf1lqKoWWX9kOn4crG6MyRMI4hQmTNfqzADg?key=qv6Vbdt32T6dTgKGUrsl6A)
 
-   <img width="296" height="146" alt="unnamed" src="https://github.com/user-attachments/assets/d3b5f39b-e933-428f-b075-54c06ab3a0ea" />
+   <!--<img width="296" height="146" alt="unnamed" src="https://github.com/user-attachments/assets/d3b5f39b-e933-428f-b075-54c06ab3a0ea" />-->
 
 2. **From Your Character Sheet**  
    The **“Join AboveVTT”** button is also at the top of your sheet.  
-   [Screenshot – Character Sheet](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfUdEeC_5uwyxvsB1l6ghQ3o5prlyFTW9IMIMN-SBT5WISUHb9_wsBaxYGEJ4WDZymxqjFW3kSqFLdq_rD_lDR4o94z8ObL7HhlN8G-w0irOAQiUfpLt68TKC9ke7haSuG6lNIhZw?key=qv6Vbdt32T6dTgKGUrsl6A)
+   ![Screenshot – Character Sheet](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfUdEeC_5uwyxvsB1l6ghQ3o5prlyFTW9IMIMN-SBT5WISUHb9_wsBaxYGEJ4WDZymxqjFW3kSqFLdq_rD_lDR4o94z8ObL7HhlN8G-w0irOAQiUfpLt68TKC9ke7haSuG6lNIhZw?key=qv6Vbdt32T6dTgKGUrsl6A)
 
 
 ---
-
-- [**2014 dndbeyond/ AboveVTT starter tutorial**](https://drive.google.com/open?id=1J7NJKxewKBFQATy9VIfa8CKV45AAfSIz&usp=drive_fs)
-- [**AboveVTT character sheet tutorial**](https://drive.google.com/open?id=16je5O0qx5FDIXT_0rO7Q0CmVQUpxYlva&usp=drive_fs)
-- [**AboveVTT Player Tutorial**](https://www.youtube.com/watch?v=AaSClv4jSbk)
