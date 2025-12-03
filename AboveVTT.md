@@ -8,6 +8,8 @@ We use dndbeyond with the AboveVTT browser extension.
 
 - The AboveVTT browser extension ([Chrome](https://chromewebstore.google.com/detail/abovevtt/ipcjcbhpofedihcloggaichibomadlei?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/abovevtt/)) 
 
+- D&D Beyond 2014 Link Fixer ([Chrome](https://chromewebstore.google.com/detail/dd-beyond-2014-link-fixer/hkleolhmaimabhalcmdbcnmaiipdjafj?pli=1) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/d-d-beyond-2014-link-fixer/)) _Fixes links and tooltips, so you get 2014 results, not 2024._ 
+
 - A [discord](https://discord.com/) account (can be free account)
 
 - Microphone and speakers or a headset
