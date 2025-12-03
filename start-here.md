@@ -87,4 +87,6 @@ None of them matter in the Reach — until they do.
 
 > *No story is written until you walk into the wilds.*
 After the adventure, post in #after-action-reports.
+ 
+![hollow-reach-world](https://github.com/user-attachments/assets/0b8215e6-5763-4f49-bf36-a979070533b5)
 
