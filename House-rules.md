@@ -1,10 +1,10 @@
 # Welcome to House Rules
 
-_I don’t favor variants or house rules as there are plenty of official rules to keep up with and they make the game unpredictable from table to table, but there are many rules in the game that are unclear and many start with “The DM decides…”, putting the ruling squarely on the DM. However, there is often other guidance in the rules, so I try to rule as consistently and predictably as possible. What follows are a few genuine house rules, plus how I rule on ambiguous rules._
+_I don't favor variants or house rules as there are plenty of official rules to keep up with and they make the game unpredictable from table to table, but there are many rules in the game that are unclear and many start with "The DM decides…", putting the ruling squarely on the DM. However, there is often other guidance in the rules, so I try to rule as consistently and predictably as possible. What follows are a few genuine house rules, plus how I rule on ambiguous rules._
 
 ---
 
-# :game_die: Be a Good Player
+# 🎲 Be a Good Player
 
 ## Be a Hero  
 Avoid cruel or evil characters. Anti-heroes are fine with approval, but not ideal for new players. Prioritize the party and the greater good.
@@ -38,7 +38,7 @@ Have a plan on your turn. Use AboveVTT tools to streamline rolls and actions. As
 
 ---
 
-## :crossed_swords: Combat House Rules
+## ⚔️ Combat House Rules
 
 **Cover:** (PHB only)
 
@@ -66,31 +66,31 @@ Costs double movement unless ignored. If it looks rough, ask.
 
 * 1 free (draw, open, etc.)
 * Drop = free
-* 2nd = **Action** or :shield: *Bonus Action* (house rule)
+* 2nd = **Action** or 🛡️ *Bonus Action* (house rule)
 
 **[Contests](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#ContestsinCombat) (Grapple/Shove or [other action options - Climb onto/ Disarm / Mark/ Overrun / Shove Aside/ Tumble](https://www.dndbeyond.com/sources/dnd/dmg-2014/dungeon-masters-workshop#ActionOptions)):**
 
 * Requires **Attack action**
 * Can replace one attack
-* :shield: *Bonus Action* allowed for **Fighter, Barbarian, Monk, Paladin, Ranger, Rogue**
-* :shield: **Mark** - automatic for last target hit.
+* 🛡️ *Bonus Action* allowed for **Fighter, Barbarian, Monk, Paladin, Ranger, Rogue**
+* 🛡️ **Mark** - automatic for last target hit.
 
 **Improvising an Action (Stunts & Other Cool Stuff)**
 - Want to do something cinematic, clever, or parley with a foe? Awesome.  
 - These are covered by the RAW [**Improvising an Action**](https://www.dndbeyond.com/sources/dnd/phb-2014/combat#ImprovisingAnAction) rules, and can be used to achieve creative goals outside the standard actions.  
 - Takes an **Action** and usually an **ability check**  
-- :white_check_mark: *House Rule:* You may use a **Bonus Action** instead of an Action for most stunts to encourage creative play  
+- ✅ *House Rule:* You may use a **Bonus Action** instead of an Action for most stunts to encourage creative play  
 - On success: gain **advantage** on your next action **or** achieve the intended effect  
 - On failure: suffer **disadvantage** or another fitting consequence  
-> _E.g.: “Vault off the table and strike from above” → Acrobatics check → advantage if successful, fall prone if not._
+> _E.g.: "Vault off the table and strike from above" → Acrobatics check → advantage if successful, fall prone if not._
 
 **Initiative – Familiars, Summons & Mounts:**  
-:shield: *House rule:*
+🛡️ *House rule:*
 - Controlled creatures share your turn; actions may be interleaved.  
 - Uncontrolled creatures act immediately after you.
 
 [**Mounted Combat:**](https://www.dndbeyond.com/sources/dnd/phb-2014/combat#MountedCombat)
-:shield: *House rule:* You share space and are effectively one size larger for reach/targeting.
+🛡️ *House rule:* You share space and are effectively one size larger for reach/targeting.
 
 [**Help Action:**](https://www.dndbeyond.com/sources/dnd/phb-2014/combat#Help) 
 Allowed for individual checks. Not valid for Initiative. Buffs like _guidance_ apply to only one character per initiative roll.
@@ -100,7 +100,7 @@ If your attack roll misses a creature (except a natural 1), you can deal damage 
 
 ---
 
-## :compass: Exploration House Rules
+## 🧭 Exploration House Rules
 
 **Theater of the Mind:**  
 Don’t move tokens without letting the DM describe the scene (corners, doors, new map, et al). Let narration come first. Be ready to switch to non-map play when needed.
@@ -131,7 +131,7 @@ Enemies hide too...
 
 ---
 
-## :dna: Class Features House Rules
+## 🧬 Class Features House Rules
 
 **Wildshape:**
 -   Out of combat: unlimited CR 0 Tiny beasts (Basic Rules only)
@@ -156,11 +156,11 @@ Work with the DM to pre-select summons or shapes. Add them to your Extras tab in
 Use your own or your familiar’s senses when linked. You’re still aware and can communicate telepathically.
 
 **Inspiration & Bardic Inspiration:**  
-:shield: *House Rule:* You may spend Inspiration _after_ the roll but _before_ you know the result.
+🛡️ *House Rule:* You may spend Inspiration _after_ the roll but _before_ you know the result.
 
 ---
 
-## :hourglass_flowing_sand: Time & Resources
+## ⏳ Time & Resources
 
 **General Tracking**
 -   **No micromanagement** of basic items (rations, mundane ammo, water, etc.) — assumed resupplied via foraging, crafting, or downtime.
@@ -173,40 +173,40 @@ Use your own or your familiar’s senses when linked. You’re still aware and c
     
 
 **Duration Guidelines**  
-:pushpin: **Limited Rounds** (e.g., _Bless_, _Shield of Faith_)
+📍 **Limited Rounds** (e.g., _Bless_, _Shield of Faith_)
 -   Declare on use.
     
--   **In combat**: we track by round. Use AboveVTT’s **Concentration marker** for auto-tracking.
+-   **In combat**: we track by round. Use AboveVTT's **Concentration marker** for auto-tracking.
     
 -   **Out of combat**: assumed brief. 
     
 
-:clock1: **One Minute**
+🕐 **One Minute**
 -   In combat: lasts **until combat ends\***.
     
 -   Out of combat: lasts **for the current scene**.
     
 
-:clock1030: **Ten Minutes**
+🕥 **Ten Minutes**
 -   Spans **2 scenes\*** including combat.
     
 -   Ends with a **ritual cast** or **short rest**.
     
 
-:clock3: **One Hour**
+🕒 **One Hour**
 -   Lasts through **three+ scenes\*** and any combat.
     
 -   Ends with a **short rest**.
     
 
-:clock8: **Eight Hours or longer**
+🕗 **Eight Hours or longer**
 -   Lasts for the **entire adventure\***.
     
 \*_or until you lose concentration_
 
 ---
 
-## :crystal_ball: Spellcasting Clarifications
+## 🔮 Spellcasting Clarifications
 
 _(with house rules for ease and consistency)_
 
@@ -215,10 +215,10 @@ _(with house rules for ease and consistency)_
     
 -   If the spell also has a **Material (M)** component and you're using a **focus** or **component pouch**, the **same free hand** can perform both.
     
--   You **cannot** cast Somatic-only spells with a hand that's holding something **RAW** — **but we don’t enforce this**.
+-   You **cannot** cast Somatic-only spells with a hand that's holding something **RAW** — **but we don't enforce this**.
     
 
-> :white_check_mark: _House Rule:_ As long as you have a focus or pouch in hand, you're good — no juggling required.
+> ✅ _House Rule:_ As long as you have a focus or pouch in hand, you're good — no juggling required.
 
 **Component Pouches**
 -   Work for **all casting classes**, ideal for multiclass characters.
@@ -230,49 +230,17 @@ _(with house rules for ease and consistency)_
 -   **RAW:** If you cast a **bonus action spell**, you can only cast a **cantrip** with your action that turn.
     
 
-> :x: **House Rule:** We ignore this restriction. If you have the actions (e.g., Action, Bonus Action), **you can cast two leveled spells**.  
-> Whether you’re a Sorcerer using _Quicken Spell_, or a Fighter/Eldritch Knight with _Action Surge_, go for it. If you built for it and spent the resources, you earned it.
+> ❌ **House Rule:** We ignore this restriction. If you have the actions (e.g., Action, Bonus Action), **you can cast two leveled spells**.
+> Whether you're a Sorcerer using _Quicken Spell_, or a Fighter/Eldritch Knight with _Action Surge_, go for it. If you built for it and spent the resources, you earned it.
 
 ---
 
-## :crystal_ball: Spellcasting Clarifications
+## 🧪 Potions
 
-_(with house rules for ease and consistency)_
-
-**Somatic & Material Components**
--   You need **a free hand** for **Somatic (S)** components.
-    
--   If the spell also has a **Material (M)** component and you're using a **focus** or **component pouch**, the **same free hand** can perform both.
-    
--   You **cannot** cast Somatic-only spells with a hand that's holding something **RAW** — **but we don’t enforce this**.
-    
-
-> :white_check_mark: _House Rule:_ As long as you have a focus or pouch in hand, you're good — no juggling required.
-
-**Component Pouches**
--   Work for **all casting classes**, ideal for multiclass characters.
-    
--   Still require a **free hand**, but that hand handles both S and M components.
-    
-
-**Casting Multiple Spells per Turn**
--   **RAW:** If you cast a **bonus action spell**, you can only cast a **cantrip** with your action that turn.
-    
-
-> :x: **House Rule:** We ignore this restriction. If you have the actions (e.g., Action, Bonus Action), **you can cast two leveled spells**.  
-> Whether you’re a Sorcerer using _Quicken Spell_, or a Fighter/Eldritch Knight with _Action Surge_, go for it. If you built for it and spent the resources, you earned it.
-
----
-
-### :test_tube: **Potions**
-
-** :white_check_mark: _House Rule:_**
+**✅ _House Rule:_**
 
 * Drinking a potion or administering a potion to a downed ally can be done as an **Action or Bonus Action**.
 
-**Healing Potions:**
-
-* Healing potions require **an Action or Bonus Action to recover** after consumption.
 * If unconscious, the target recovers **as a Reaction**.
 
 > *“The alchemical spark within a healing draught must be settled by will—or jump-started by crisis. The waking mind resists the flood—it must brace and swallow. But the silent soul drinks deep without struggle.”*
@@ -280,7 +248,7 @@ _(with house rules for ease and consistency)_
 
 ---
 
-\❤️ **Hit Points & Resting**
+## ❤️ Hit Points & Resting
 
 > *“Hit points are a combination of actual physical durability, luck, divine favor, and combat skill. Only when hit points are nearly gone does a character start taking real, life-threatening wounds.”*
 > — *Gary Gygax, Dungeon Masters Guide (1979)*
@@ -289,14 +257,19 @@ Hit points are not meat. They're energy, grit, luck, stamina — and they come b
 
 ---
 
-\💤 **Resting**
+## 💤 Resting
 
 * A [**Short Rest**](https://www.dndbeyond.com/sources/dnd/phb-2014/adventuring#ShortRest) takes just **5 minutes** and automatically occurs at the end of an encounter. You can pause to bind wounds, focus your breath, or gather your will. Many abilities recharge on a short rest. You may also use your hit dice to heal allies. 
 * [**Long Rests**](https://www.dndbeyond.com/sources/dnd/phb-2014/adventuring#LongRest) take 8 hours and you regain **all** hit dice and abilities. Victories are reset to zero on a long rest. 
 
 ---
 
-\💪 **Martial Surge** :shield: *House Rule:*
+## 💪 Martial Surge
+
+🛡️ *House Rule:*
+
+🛡️ *House Rule:*
+
 Once per rest, a **Barbarian, Fighter, Monk, Paladin, Ranger, or Rogue** may use an **Action or Bonus Action** to spend up to half their hit dice to heal.
 They must become **incapacitated until the start of their next turn**, reflecting a moment of intense focus or recovery.
 *Fighters still retain Second Wind separately.*
@@ -312,12 +285,12 @@ If that trigger occurs, you may resume your turn, using any remaining actions, b
 
 This includes full use of features like Extra Attack, Two-Weapon Fighting, or Polearm Master.
 
-:repeat: If the trigger does not occur, you may instead choose to resume your turn immediately after any other creature finishes their turn, as long as it’s before your next turn in initiative.
+🔄 If the trigger does not occur, you may instead choose to resume your turn immediately after any other creature finishes their turn, as long as it's before your next turn in initiative.
 
-:warning: Resuming your turn (via trigger or chosen timing) consumes your reaction.
+⚠️ Resuming your turn (via trigger or chosen timing) consumes your reaction.
 If you never act, you retain your reaction and your turn is forfeit when your next one arrives, but you can choose to act with your remaining actions, _just before your next turn_.
 
-:brain: Example:
+🧠 Example:
 You drop an enemy with your first attack. You then Ready to attack the next creature that enters your reach.
 When it happens, you resume your turn — making your remaining Extra Attacks, bonus action, and movement, if desired.
 

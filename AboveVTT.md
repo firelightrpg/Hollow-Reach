@@ -1,12 +1,12 @@
-# VTT 
+# 🎮 VTT 
 
-We use dndbeyond with the AboveVTT browser extension. 
+We use dndbeyond with the AboveVTT browser extension. 
 
 ## Requirements
 
-- A [dndbeyond](https://www.dndbeyond.com/) account (can be a free account - Note: when you join my campaign, you’ll have access to my content)
+- A [dndbeyond](https://www.dndbeyond.com/) account (can be a free account - Note: when you join my campaign, you'll have access to my content)
 
-- The AboveVTT browser extension ([Chrome](https://chromewebstore.google.com/detail/abovevtt/ipcjcbhpofedihcloggaichibomadlei?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/abovevtt/)) 
+- The AboveVTT browser extension ([Chrome](https://chromewebstore.google.com/detail/abovevtt/ipcjcbhpofedihcloggaichibomadlei?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/abovevtt/)) 
 
 - A [discord](https://discord.com/) account (can be free account)
 
@@ -18,7 +18,7 @@ We use dndbeyond with the AboveVTT browser extension. 
 
 ---
 
-## :inbox_tray: How to Join AboveVTT
+## 📥 How to Join AboveVTT
 
 Once you have the **AboveVTT browser extension** installed, you can join a game directly from D&D Beyond.
 
