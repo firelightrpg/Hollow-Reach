@@ -328,11 +328,11 @@ Readied Actions can interrupt casters and force Concentration saves.
 **Achieving Triumphs**
 Each time you overcome an encounter, you receive a triumph. Triumphs reset to zero on a long rest. At the start of an encounter, you have a number of triumphs equal to the number of encounters you've overcome since your last long rest. 
 
-**Combat **triumphs may be  killing a ravaging monster, stopping a ritual, recovering stolen goods, or rescuing a patron. 
+**Combat** triumphs may be  killing a ravaging monster, stopping a ritual, recovering stolen goods, or rescuing a patron. 
 
-A **social **triumph may be gaining information or influencing behavior that overcomes a social obstacle.
+A **social** triumph may be gaining information or influencing behavior that overcomes a social obstacle.
 
-An **exploration ** triumph might be solving a puzzle, overcoming a trap, locating an important secret, negotiating a hazard or completing a difficult gauntlet.
+An **exploration** triumph might be solving a puzzle, overcoming a trap, locating an important secret, negotiating a hazard or completing a difficult gauntlet.
 
 **Expending Triumphs**
 On your turn, you may expend one or more available triumphs.
