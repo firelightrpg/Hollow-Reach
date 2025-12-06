@@ -128,7 +128,6 @@ Enemies hide too...
 -   _Thieves’ Tools_ or _Arcana*_ = interact or disable  
     \* _Magic_
     
-
 ---
 
 ## 🧬 Class Features House Rules
@@ -241,6 +240,7 @@ _(with house rules for ease and consistency)_
 
 * Drinking a potion or administering a potion to a downed ally can be done as an **Action or Bonus Action**.
 
+* Drinking a potion or administering a potion to a downed ally can be done as an **Action or Bonus Action**.
 * If unconscious, the target recovers **as a Reaction**.
 
 > *“The alchemical spark within a healing draught must be settled by will—or jump-started by crisis. The waking mind resists the flood—it must brace and swallow. But the silent soul drinks deep without struggle.”*
